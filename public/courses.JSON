@@ -1,0 +1,72 @@
+[
+    {
+      "_id": "64eda7b81a0c5bbb066e39a3",
+      "course_name": "Equation Enigmas",
+      "course_tittle": "Solve the Mystery of Math Puzzles",
+      "img": "https://1.bp.blogspot.com/-RAQmlPOt9g0/XK9DkYlfmmI/AAAAAAABioc/zdmKjgueQ4UpUkADbftXo6lAhjMWs8pDACLcBGAs/s1600/simple-math-equations-riddle.png",
+      "amount": "350"
+    },
+    {
+      "_id": "64eda7b8eb69c9569a047331",
+      "course_name": "Geometry Puzzlers",
+      "course_tittle": "Unravel Shapes and Spatial Challenges",
+      "img": "https://i0.wp.com/mathwithbaddrawings.com/wp-content/uploads/2018/09/catriona-2.jpg?fit=1200%2C1150&ssl=1",
+      "amount": "420"
+    },
+    {
+      "_id": "64eda7b8127953382e639be6",
+      "course_name": "Algebraic Riddles",
+      "course_tittle": "Crack Codes and Solve Mathematical Enigmas",
+      "img": "https://winthropdc.files.wordpress.com/2016/10/flower_algebra.jpg",
+      "amount": "820"
+    },
+    {
+      "_id": "64eda7b8f242b24c7ee03a33",
+      "course_name": "Calculus Conundrums",
+      "course_tittle": "Tackle Complex Problems and Mathematical",
+      "img": "https://mastermathmentor.com/mmm/content/images/CalculusConundrums_FINAL.jpg",
+      "amount": "220"
+    },
+    {
+      "_id": "64eda7b8c5d013147526322e",
+      "course_name": "Tricky Transformations",
+      "course_tittle": "Master the Art of Mathematical Shape Changes",
+      "img": "https://2.bp.blogspot.com/-tlOdWRG-pJQ/XLfmsmpPVeI/AAAAAAAAFWg/LnHjW0Tv-uwxQUWJJzRfAb0LV_wJX3WDACLcBGAs/s1600/transformed.png",
+      "amount": "150"
+    },
+    {
+      "_id": "64eda7b860eb7b705bffc796",
+      "course_name": "Number Mysteries",
+      "course_tittle": "Unlock the Secrets of Mathematical Numbers",
+      "img": "https://i.pinimg.com/originals/29/89/b9/2989b97d5706b10d022c241d83fc2009.jpg",
+      "amount": "99"
+    },
+    {
+      "_id": "64eda7b867f5775d93da0c75",
+      "course_name": "Logic Dilemmas",
+      "course_tittle": "Navigate Mind-Bending Logical Challenges",
+      "img": "https://contenthub-static.grammarly.com/blog/wp-content/uploads/2022/08/bmd-3388-437x230.png",
+      "amount": "320"
+    },
+    {
+      "_id": "64eda7b8f80e301ea1e8ab68",
+      "course_name": "Statistic Quests",
+      "course_tittle": "Explore Data and Solve Statistical Riddles",
+      "img": "https://w3techs.com/diagram/history_technology/tld-quest-",
+      "amount": "450"
+    },
+    {
+      "_id": "64eda7b8f9389813e68abf64",
+      "course_name": "Word Problem Wonders",
+      "course_tittle": "Conquer Math through Real-Life Scenarios",
+      "img": "https://49140351515532791808-0db34d0ff83b1259c67fb64906a8985a.ssl.cf2.rackcdn.com/create-word-problems-1.jpg",
+      "amount": "460"
+    },
+    {
+      "_id": "64eda7b8734adc531266fb20",
+      "course_name": "Math Mind Teasers",
+      "course_tittle": "Stimulate Your Brain with Mathematical Puzzles",
+      "img": "https://www.mentalup.co/img/blog/math-brain-teaser-1.jpg",
+      "amount": "220"
+    }
+  ]
